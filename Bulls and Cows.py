@@ -7,7 +7,7 @@ from urllib.request import urlretrieve
 
 client = discord.Client()
 
-token = "NzczMTM0MzA2NTY5NjE3NDA5.X6Ezbg.PYw7WxadOTvEeeSsHrbenCm_8fM"
+token = "your token"
 @client.event
 async def on_ready():
     print("=========================")
